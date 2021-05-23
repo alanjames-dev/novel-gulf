@@ -21,6 +21,22 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-work:before {
+    content: "\e906";
+}
+
+.icon-email:before {
+    content: "\e907";
+}
+
+.icon-call:before {
+    content: "\e908";
+}
+
+.icon-location:before {
+    content: "\e909";
+}
+
 .icon-DigitalConstruction:before {
     content: "\e900";
 }
